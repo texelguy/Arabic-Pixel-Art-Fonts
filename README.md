@@ -1,11 +1,12 @@
 # Arabic-Pixel-Art-Fonts
-#### ENGLISH
+### ENGLISH
 a list of (so far found) Arabic fonts in style of Pixel Art
 REMEMBER: always check the license of the fonts you want to use and make sure to respect it.
-
-#### العربية
+### العربية
 لائحة من الخطوط العربية في ستايل البكسل ارت (الي لقيتهم لحد الان).
 تذكر: دائماً تأكد من الرخصة المرفقة مع الخط واحترمها لتجنب الكوبيرايت.
+
+# 
 
 - [Arabic Pixel Font - B (by Alexis Clay)](https://alexclay.itch.io/arabic-pixel-font-b)
 - [Bitsy With Arabic Font (by Alexis Clay)](https://alexclay.itch.io/bitsy-with-arabic-font)
